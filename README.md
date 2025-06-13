@@ -48,7 +48,7 @@
 ### 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutoshkaremore)
-- 📫 Reach me: karemoreashutosh@gmail.com
+- 📫 Reach me: ashutoshkaremore@gmail.com
 
 ---
 
