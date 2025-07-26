@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logoColor=white" />
 
   <!-- MLOps / Dev Tools -->
+  <img src="https://img.shields.io/badge/-IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" />
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-02010A?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
