@@ -21,7 +21,7 @@
 
 ### 🚀 Projects I'm Proud Of
 
-- 📈 [Insurance Premium Charges Prediction](https://github.com/ashutoshkaremore/machine-learning-projects/tree/main/Insurance%20Premium%20Charges%20Prediction)
+- 📈 Portfolio: [portfolio](https://github.com/ashutoshkaremore/portfolio)
 - 🧠 Machine Learning Project Hub: [machine-learning-projects](https://github.com/ashutoshkaremore/machine-learning-projects)
 
 ---
